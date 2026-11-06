@@ -1,0 +1,30 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+
+[[mods]]
+modId="taczsoldiers"
+version="1.0.0"
+displayName="TaCZ Soldiers"
+description='''Role-based NPC soldiers that carry TaCZ guns, wear army gear and attack you on sight.'''
+
+[[dependencies.taczsoldiers]]
+    modId="forge"
+    mandatory=true
+    versionRange="[47,)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.taczsoldiers]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.20.1,1.21)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.taczsoldiers]]
+    modId="tacz"
+    mandatory=true
+    versionRange="[0,)"
+    ordering="AFTER"
+    side="BOTH"

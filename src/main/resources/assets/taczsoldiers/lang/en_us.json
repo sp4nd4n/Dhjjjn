@@ -1,0 +1,18 @@
+{
+  "entity.taczsoldiers.soldier": "Soldier",
+  "entity.taczsoldiers.frag_grenade": "Frag Grenade",
+  "item.taczsoldiers.frag_grenade": "Frag Grenade",
+  "item.taczsoldiers.classified_documents": "Classified War Plans",
+  "item.taczsoldiers.intel_drive": "Encrypted Intel Drive",
+  "item.taczsoldiers.prototype_case": "Prototype Weapon Case",
+  "item.taczsoldiers.launch_codes": "Nuclear Launch Codes",
+  "item.taczsoldiers.reactor_core": "Experimental Reactor Core",
+  "item.taczsoldiers.spawn_rifleman": "Rifleman Soldier Spawn Egg",
+  "item.taczsoldiers.spawn_sniper": "Sniper Soldier Spawn Egg",
+  "item.taczsoldiers.spawn_gunner": "Machine Gunner Soldier Spawn Egg",
+  "item.taczsoldiers.spawn_breacher": "Breacher Soldier Spawn Egg",
+  "item.taczsoldiers.spawn_operator": "Special Ops Soldier Spawn Egg",
+  "item.taczsoldiers.spawn_officer": "Officer Soldier Spawn Egg",
+  "item.taczsoldiers.spawn_medic": "Medic Soldier Spawn Egg",
+  "item.taczsoldiers.spawn_rocketgunner": "Rocket Gunner Soldier Spawn Egg"
+}
